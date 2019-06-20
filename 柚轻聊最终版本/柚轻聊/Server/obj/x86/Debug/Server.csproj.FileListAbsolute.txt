@@ -1,0 +1,16 @@
+E:\。net练习\项目\网络服务编程\Server\obj\x86\Debug\Server.MainServer.resources
+E:\。net练习\项目\网络服务编程\Server\obj\x86\Debug\Server.Properties.Resources.resources
+E:\。net练习\项目\网络服务编程\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+E:\。net练习\项目\网络服务编程\Server\bin\Debug\Server.exe.config
+E:\。net练习\项目\网络服务编程\Server\bin\Debug\Server.exe
+E:\。net练习\项目\网络服务编程\Server\bin\Debug\Server.pdb
+E:\。net练习\项目\网络服务编程\Server\bin\Debug\SkinForm.pdb
+E:\。net练习\项目\网络服务编程\Server\obj\x86\Debug\Server.exe
+E:\。net练习\项目\网络服务编程\Server\obj\x86\Debug\Server.pdb
+E:\。net练习\项目\网络服务编程\Server\bin\Debug\BLL.dll
+E:\。net练习\项目\网络服务编程\Server\bin\Debug\DAL.dll
+E:\。net练习\项目\网络服务编程\Server\bin\Debug\MODEL.dll
+E:\。net练习\项目\网络服务编程\Server\bin\Debug\BLL.pdb
+E:\。net练习\项目\网络服务编程\Server\bin\Debug\DAL.pdb
+E:\。net练习\项目\网络服务编程\Server\bin\Debug\MODEL.pdb
+E:\。net练习\项目\网络服务编程\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache

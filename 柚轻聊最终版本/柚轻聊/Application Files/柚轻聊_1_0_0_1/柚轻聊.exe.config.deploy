@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <connectionStrings>
+    <add name="connStr" connectionString="Data Source=qds117733495.my3w.com; Initial Catalog=qds117733495_db; User ID =qds117733495;Password=1220130912"/>
+  </connectionStrings>
+  <appSettings>
+    <!--服务器IP-->
+    <add key="StrIP" value="192.168.0.6"/>
+    <!--服务器端口号-->
+    <add key="Prot" value="51111"/>
+  </appSettings>
+<startup><supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6.1"/></startup></configuration>
